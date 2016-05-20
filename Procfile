@@ -1,1 +1,1 @@
-web: GuessTheNumber.html
+web: run GuessTheNumber.html
