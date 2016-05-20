@@ -1,0 +1,11 @@
+{
+  "name": "guessthenumber",
+  "version": "1.0.0",
+  "description": "Just double click on the file and open it in browser to run the app. Make sure you have an active internet connection.\r sdfsdfsd",
+  "main": "GuessTheNumber.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
